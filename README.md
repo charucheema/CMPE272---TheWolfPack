@@ -1,1 +1,1 @@
-# CMPE272 - TheWolfPack - Visitor Management System
+# CMPE272 - TheWolfPack - Patient Management System
